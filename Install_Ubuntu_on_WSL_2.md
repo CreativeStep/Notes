@@ -1,4 +1,4 @@
-##Install Ubuntu on WSL 2
+## Install Ubuntu on WSL 2
 
 WSL2 (Windows Subsystem for Linux 2) is a compatibility layer allowing users to run a full Linux kernel and native Linux applications on Windows 10 version 2004 and higher (Build 19041 and higher) or Windows 11.
 
